@@ -30,12 +30,15 @@
     border-radius: 25px;
     padding: 2%;
     box-shadow: 5px 5px;
+    
+
   }
   
   .heading {
     display: flex;
     align-items: center;
     height: 582px;
+    color: black;
   }
   
   .button {
@@ -56,7 +59,8 @@
   }
     
   .button span {
-    color: #164ca7;
+    font-family: 'Roboto', sans-serif;
+    color: black;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 0.7px;
